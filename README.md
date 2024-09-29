@@ -1,4 +1,4 @@
-### Hi there, This is Kmiit 👋 ![Visitor Count](https://profile-counter.glitch.me/kmiit/count.svg)
+### Hi there, This is Kmiit 👋 !
 
 <!--
 **kmiit/kmiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
